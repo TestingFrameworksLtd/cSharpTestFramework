@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UITests", "UITests\UITests.csproj", "{BDBCF509-A104-4FB5-A64D-93BF0528ED3B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{F9D9A2D5-5404-43E8-A74E-9030707CE482}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\NuGet.Config = .nuget\NuGet.Config
+		.nuget\NuGet.exe = .nuget\NuGet.exe
+		.nuget\NuGet.targets = .nuget\NuGet.targets
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C693CDEF-43FF-420D-B76B-DAB8D4DD5194}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		.gitignore_global = .gitignore_global
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDBCF509-A104-4FB5-A64D-93BF0528ED3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBCF509-A104-4FB5-A64D-93BF0528ED3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBCF509-A104-4FB5-A64D-93BF0528ED3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBCF509-A104-4FB5-A64D-93BF0528ED3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
