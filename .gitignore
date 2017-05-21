@@ -52,3 +52,6 @@ Thumbs.db
 *.user
 /UITests/bin/debug
 /UITests/obj/debug
+
+!AutoItX3.dll
+!AutoItX3_x64.dll
