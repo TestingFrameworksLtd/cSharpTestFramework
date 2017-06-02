@@ -15,7 +15,7 @@ namespace UITests.SeleniumTests.Stepdefinitions
         [Given(@"I am on the login page")]
         public void GivenIAmOnTheLoginPage()
         {
-            Navigator.Visit<LoginPage>(); j             
+            Navigator.Visit<LoginPage>();           
         }
     }
 }
